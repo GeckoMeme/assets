@@ -1,0 +1,12 @@
+{
+  "name": "Gecko Coin",
+  "symbol": "GECKO",
+  "address": "3hUPviVQBXviwHFD3KLV9PzWmf1q7hCMeXUcnu4Jpump",
+  "decimals": 9,
+  "logoURI": "https://teraki.art/logoGECKO.png",
+  "extensions": {
+    "website": "https://teraki.art",
+    "twitter": "https://twitter.com/terakiart",
+    "telegram": "https://t.me/+QGALiLp1hWIyZjg8"
+  }
+}
